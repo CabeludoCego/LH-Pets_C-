@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "vrlv8lLFePhjgy4/DDEXqfwqz7cxZWefgOk/vaKFlh8=",
+  "Source": "proj01",
+  "BasePath": "_content/proj01",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "proj01\\wwwroot",
+      "Source": "proj01",
+      "ContentRoot": "D:\\trab2\\Geral\\Intros\\SENAI\\backend\\backend1\\atividades01\\proj01\\wwwroot\\",
+      "BasePath": "_content/proj01",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\trab2\\Geral\\Intros\\SENAI\\backend\\backend1\\atividades01\\proj01\\wwwroot\\index.html",
+      "SourceId": "proj01",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\trab2\\Geral\\Intros\\SENAI\\backend\\backend1\\atividades01\\proj01\\wwwroot\\",
+      "BasePath": "_content/proj01",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
